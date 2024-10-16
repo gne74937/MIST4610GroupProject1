@@ -54,6 +54,7 @@ Finally, the Employee entity branches out into the EmployeeVehicleAssignment ent
 
 **Queries:**
 
+![BBEDDA19-D941-4737-9075-38CFF7142F37_1_201_a](https://github.com/user-attachments/assets/e00f3b83-944e-4e63-906e-a07bc34692ea)
 
 
 
@@ -95,8 +96,10 @@ Keeping track of how many animals that the zoo has in each exhibit is important 
 This query is important to the zoo’s management because food court employees have schedules managed by individual restaurants. As a result, when creating the zoo-wide employee schedule, it is necessary to separate employees who do not work in the food court. By identifying these employees, the zoo can efficiently create a general schedule for the rest of the staff, ensuring better organization and improved operational efficiency.
 
 7. Query 7 (Complex)
+![DA9CC26E-757A-412E-A2B8-76FC15C4BA49](https://github.com/user-attachments/assets/fb3007f6-feb8-4c25-8036-8fd58fc7338c)
+![135F103C-4C64-4887-9653-3BF549DDEFF1_4_5005_c](https://github.com/user-attachments/assets/e5a751de-1d69-45bf-8403-d84e7ea8eac9)
 
-
+This query is important for identifying high-performing employees with names starting with "L" who exceed the average sales, which could help recognize patterns in employee success or performance. It may also aid in targeted recognition or resource allocation for staff who contribute significantly to sales, which may be done in alphabetical order.
 
 8. Query 8 (Complex)
 ![2B0516D3-A122-4270-BE4A-BDC599A9CBBC_4_5005_c](https://github.com/user-attachments/assets/3b881eef-ec08-4013-9ae3-a2b51a2984e7)
