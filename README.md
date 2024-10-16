@@ -57,11 +57,12 @@ Finally, the Employee entity branches out into the EmployeeVehicleAssignment ent
 
 
 
+
 1. Query 1 (Simple)
 ![DD5B49C8-2003-4F4B-B121-7F9896778B94_4_5005_c](https://github.com/user-attachments/assets/255b2eff-44aa-4daf-a4f5-7da3925406ed)
 ![5B1AC2AA-311A-4A6D-8E1A-AFF71A81E23E_4_5005_c](https://github.com/user-attachments/assets/7784e0ee-82a7-4ede-9e0a-8eb019b30aa2)
 
-This would be important for the zookeepers to keep track of what animals they have to feed during the evening, who have a particular diet type, such as omnivore. They could use this information to create a feeding schedule as well, to increase the operational efficiency of the zoo
+This would be important for the zookeepers to keep track of what animals they have to feed during the evening, who have a particular diet type, such as omnivore. They could use this information to create a feeding schedule as well, to increase the operational efficiency of the zoo.
 
 2. Query 2 (Simple)
 ![FACC3F4D-B3E3-46BE-9FB4-6254CD5E5733_4_5005_c](https://github.com/user-attachments/assets/cd775df9-cb79-4c80-9efa-e8c7d923ce98)
@@ -88,8 +89,14 @@ This would be helpful to keep track of the restaurants and their suppliers, and 
 Keeping track of how many animals that the zoo has in each exhibit is important for the goal of animal welfare. The zoo needs to be aware of how many animals in each exhibit need to be taken care of, fed, and looked at by the zookeepers. 
 
 6. Query 6 (Complex)
+![C9E445E8-8715-4CE9-980B-190DDB5DD7F0_4_5005_c](https://github.com/user-attachments/assets/110b9abf-ba31-492d-8a83-4774a99c45d6)
+![4865C8E4-81DD-4E0E-AD8D-8C9E90D0B826](https://github.com/user-attachments/assets/1326b976-3617-441c-bc4e-54415b835022)
+
+This query is important to the zoo’s management because food court employees have schedules managed by individual restaurants. As a result, when creating the zoo-wide employee schedule, it is necessary to separate employees who do not work in the food court. By identifying these employees, the zoo can efficiently create a general schedule for the rest of the staff, ensuring better organization and improved operational efficiency.
 
 7. Query 7 (Complex)
+
+
 
 8. Query 8 (Complex)
 ![2B0516D3-A122-4270-BE4A-BDC599A9CBBC_4_5005_c](https://github.com/user-attachments/assets/3b881eef-ec08-4013-9ae3-a2b51a2984e7)
