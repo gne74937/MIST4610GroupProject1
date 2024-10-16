@@ -1,10 +1,10 @@
 # MIST4610GroupProject1
 
-**#Team Name:**
+## Team Name:
 
 Team 6
 
-**##Team Members:**
+## Team Members:
 1. Nico Espinel [@nicoespinel](https://github.com/gne74937/MIST4610GroupProject1)
 2. Evan Mahathirath [@evanmahathirath](https://github.com/emahathirath/MIST4610GroupProject1) 
 3. Tarita Jakobs [@taritajakobs](https://github.com/TaritaJakobs/MIST4610GroupProject1Zoo)
@@ -12,13 +12,13 @@ Team 6
 5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-GroupProject1)
 
 
-**Problem Description:**
+## Problem Description:
 
 The objective is to design and model a relational database that captures the essential operations of a zoo. The Employee table serves as the central entity in this model, as it is interconnected with several other entities, including Department, Exhibit, FoodCourt, TicketPurchases, and EmployeeVehicleAssignment. Additionally, the data model encompasses other entities such as Transportation, Visitors, Suppliers, Animals, Tickets, and AnimalDiet. Our primary focus is on effectively managing various operations, including guest services, ticketing processes, and animal welfare. To validate the database design, we generated sample data and populated the entities. This allows us to execute a range of simple and complex queries, simulating how the zoo would utilize this database in real-world scenarios.
 
 
 
-**Data Model:**
+## Data Model:
 
 Our model is based on a zoo. The Department entity is at the top of our data model and consists of departments like zookeepers, vets, drivers, sales, and foodcourt. Each department has many employees, but an employee can only work in one department. 
 The Employee entity is the central part of our data model. This entity contains information about each employee’s ID, first and last name, salary, contact information, and which department they belong to. For instance, an employee with the zookeeper department ID or vet department ID will have an exhibit ID where they work, but will not have a food court ID since they do not work in the food court department. Each employee is assigned to one exhibit where they will work with the animal that is assigned to that exhibit. However, the exhibit has many employees, such as a zookeeper and a vet. Exhibits will have multiple animals in them but the animals will not be placed in another exhibit. The Animals entity keeps track of their information such as their size or date of birth. Inside the Animals entity, there are two foreign keys from the exhibits entity. With the exhibit's key, it denotes the location of the animal and what exhibit they are in.
@@ -52,7 +52,7 @@ Finally, the Employee entity branches out into the EmployeeVehicleAssignment ent
 
 
 
-**Queries:**
+## Queries:
 
 ![BBEDDA19-D941-4737-9075-38CFF7142F37_1_201_a](https://github.com/user-attachments/assets/e00f3b83-944e-4e63-906e-a07bc34692ea)
 
@@ -119,7 +119,12 @@ Listing exhibits that have the same number of employees as animals helps identif
 
 This query would be important to the zoo management, specifically the sales department, because they would be able to use targeted marketing programs to entice these customers to visit the zoo again. This would be important because it would also allow the zoo to create relationships with their customers and build customer loyalty.
 
-**Database Information**
+
+
+## Database Information
 Name of the database: ns_4610Fa24Group6
+
+
+
 
 
