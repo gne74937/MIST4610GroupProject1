@@ -119,7 +119,7 @@ Listing exhibits that have the same number of employees as animals helps identif
 
 This query would be important to the zoo management, specifically the sales department, because they would be able to use targeted marketing programs to entice these customers to visit the zoo again. This would be important because it would also allow the zoo to create relationships with their customers and build customer loyalty.
 
-
-
+**Database Information**
+Name of the database: ns_4610Fa24Group6
 
 
